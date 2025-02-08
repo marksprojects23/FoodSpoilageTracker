@@ -4,7 +4,7 @@ As a software engineer, I'm always looking to build my skills and expand my know
 
 The purpose of creating this app was to further my learning in mobile development using Kotlin and Android Studio while addressing a real-world problem. By building this application, I was able to explore key concepts such as user interface design, local data persistence, and effective handling of user interactions on Android devices.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/CP4NiptnIfg)
 
 # Development Environment
 
